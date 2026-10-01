@@ -1,6 +1,6 @@
-# Ai-Tutor — policy pages
+# Dhun — policy pages
 
-The privacy policy and terms for the **Ai-Tutor** Android app, served by GitHub Pages.
+The privacy policy and terms for the **Dhun** Android app, served by GitHub Pages.
 
 - Privacy Policy — `privacy.html`
 - Terms of Use — `terms.html`
