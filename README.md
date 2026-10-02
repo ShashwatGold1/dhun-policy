@@ -25,4 +25,4 @@ Edited in the main project under `4_ship/policy/`, then copied here.
 
 ## Contact
 
-Khilankumar Kanubhai Patel, trading as Atpragya — support.aitutor.atpragya@gmail.com
+Khilankumar Kanubhai Patel, trading as Atpragya — support.dhun.pragya@gmail.com
