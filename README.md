@@ -4,6 +4,7 @@ The privacy policy and terms for the **Dhun** Android app, served by GitHub Page
 
 - Privacy Policy — `privacy.html`
 - Terms of Use — `terms.html`
+- Delete your account — `delete-account.html` (Play's Data Safety form links here)
 
 ## Why this repository exists separately
 
