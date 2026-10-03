@@ -26,4 +26,4 @@ Edited in the main project under `4_ship/policy/`, then copied here.
 
 ## Contact
 
-Khilankumar Kanubhai Patel, trading as Pragya — support.dhun.pragya@gmail.com
+Khilankumar Patel, trading as Pragya — support.dhun.pragya@gmail.com
